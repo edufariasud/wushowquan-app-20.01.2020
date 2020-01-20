@@ -1,0 +1,55 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.fixed-nav-btn {
+  position: fixed;
+  right: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.nav-btns{
+  margin-left: 8px;
+}
+
+.fixed-nav-btn-opt {
+  position: fixed;
+  left: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.app-title{
+  color: white;
+  font-weight: inherit;
+  font-size: 1.50rem;
+  line-height: 100%;
+  position: fixed;
+  left: 55px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.ovo {
+  background-color: #ffcc00 !important;
+}
+
+
